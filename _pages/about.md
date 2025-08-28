@@ -9,7 +9,7 @@ redirect_from:
 
 Ph.D., Senior Expert, Huawei Technologies
 
-[Google Sites:](https://sites.google.com/view/jiankunzhang/))
+[Google Sites:](https://sites.google.com/view/jiankunzhang/)
 
 Email: zhangjiankun819@gmail.com; zhangjiankun4@huawei.com
 
@@ -22,13 +22,13 @@ Research Interests
 His research interests lie in machine learning-based communications and computer vision in general. His recent research is mainly focused on signal processing in 5G and 6G systems, high-precision positioning, mmWave communications, free-space optical communications, visible light communications, quantum optical filter, and AI-based smart communications. His research interests also include image and video denoising, image fusion, and super resolution.
 
 Academic Activities
-------
+======
 Senior Member of Institute of Electrical and Electronics Engineers (IEEE), The Optical Society of America (OSA), and China Society of Image and Graphics (CSIG);
 
 Reviewer for IEEE TCOM/TWC/TIP/JLT/ICC/Globecom, etc.
 
 Selected Publications
-------
+======
 Jiankun Zhang, Hao Wang, Hongxiang Xie and Jing Qian, “User-Side Retraining-Free Learning for High-Precision 5G Positioning,” in IEEE Transactions on Communications, vol. 73, no. 8, pp. 6898-6913, Aug. 2025.
 
 Jiankun Zhang, Hongxiang Xie and Hao Wang, “User-Centric Phaseless Beam and Blockage Prediction Empowering 5G mmWave Systems,” in IEEE Transactions on Communications, vol. 72, no. 12, pp. 7996-8009, Dec. 2024.
@@ -58,8 +58,6 @@ Huili Zhai, Bulan Wang, Jiankun Zhang and Anhong Dang, “A fractal-based phase 
 Shengli Ding, Jiankun Zhang and Anhong Dang, “Adjustable, high-sensitivity optical collimating scheme for free-space optic links”, Optics Engineering vol. 55, pp. 110505, 2016.
 
 Ruijie Li, Jiankun Zhang, and Anhong Dang, “Cooperative system in free-space optical communications for simultaneous multiuser transmission,” IEEE Communication Letters, vol. 22, no. 10, pp. 2036-2039, 2018.
-
-Conference Papers
 
 Jiankun Zhang and Hao Wang, “Online Learning Based NLOS Ranging Error Mitigation in 5G Positioning,” in Proc. 2022 IEEE Global Communications Conference (GLOBECOM), Rio de Janeiro, Brazil, pp. 6487-6492, Dec. 2022.
 
