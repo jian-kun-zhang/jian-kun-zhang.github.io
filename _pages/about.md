@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 Ph.D., Senior Expert, Huawei Technologies
-[Google Sites]([https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator](https://sites.google.com/view/jiankunzhang/))
+
+[Google Sites:](https://sites.google.com/view/jiankunzhang/))
+
 Email: zhangjiankun819@gmail.com; zhangjiankun4@huawei.com
 
 Short Biography
@@ -22,6 +24,7 @@ His research interests lie in machine learning-based communications and computer
 Academic Activities
 ------
 Senior Member of Institute of Electrical and Electronics Engineers (IEEE), The Optical Society of America (OSA), and China Society of Image and Graphics (CSIG);
+
 Reviewer for IEEE TCOM/TWC/TIP/JLT/ICC/Globecom, etc.
 
 Selected Publications
